@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am kryzsiel on github.
-  * I am kowalskiego (https://keybase.io/kowalskiego) on keybase.
-  * I have a public key ASD4YkvmnXXD2aeq2M4G1oY4w8hRi1ThgaynFbm37pqa0Qo
+  * I am frvalov3 on github.
+  * I am frvalov3 (https://keybase.io/frvalov3) on keybase.
+  * I have a public key ASBPdnlcR-5MLLThzZ-KvRWuuaDYsHZKe64Qof5TIUVhjgo
 
 To claim this, I am signing this object:
 
@@ -12,42 +12,42 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "0120e8606f0f9c7841bce080019040c7eb054f126b1e8ffaa37ad338ef969a2fe32a0a",
+      "eldest_kid": "01204f76795c47ee4c2cb4e1cd9f8abd15aeb9a0d8b0764a7bae10a1fe532145618e0a",
       "host": "keybase.io",
-      "kid": "0120f8624be69d75c3d9a7aad8ce06d68638c3c8518b54e181aca715b9b7ee9a9ad10a",
-      "uid": "104d2559ba716007be6d05891486f619",
-      "username": "kowalskiego"
+      "kid": "01204f76795c47ee4c2cb4e1cd9f8abd15aeb9a0d8b0764a7bae10a1fe532145618e0a",
+      "uid": "06dcda38a0d95014389f326168828019",
+      "username": "frvalov3"
     },
     "merkle_root": {
-      "ctime": 1568100769,
-      "hash": "b3491f362446375c69a94e4c72260363e6578b271bc9d7a3e2007cee5fe1fc6a1cbcfc3f22635c98117489a55e3b6783c93105a5ca2e00cf5cb79d10ac56207e",
-      "hash_meta": "b236e947a1963ffca3454325c676ba7ded79c28872ec162be0b630e1307b2e4c",
-      "seqno": 6341022
+      "ctime": 1568200632,
+      "hash": "5e8617ef29bf5d209b0049a3cbfa23fc5ed3ae748c5141fffebde0faa5dadeba1b2546a52e963a59eec648af4c20d756952ed7afc791c76c2e9d4ec2c2cdc974",
+      "hash_meta": "ad0148d496c5fb28977fcaa4b7012240a569fc77b74c7e3f07b0773183286f3d",
+      "seqno": 6685716
     },
     "service": {
-      "entropy": "rsBEY0ufhu+xhjOcrKy2+PV9",
+      "entropy": "t2yILlPn8zaFga5b0S8of9xd",
       "name": "github",
-      "username": "kryzsiel"
+      "username": "frvalov3"
     },
     "type": "web_service_binding",
     "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.4.1"
+    "version": "4.4.0"
   },
-  "ctime": 1568100773,
+  "ctime": 1568200638,
   "expire_in": 504576000,
-  "prev": "920c66549536c8f1776a0b31a4287ddb2432bed5f5b8922221494e8cf5fe0028",
-  "seqno": 23,
+  "prev": "6bbc3bd452d0b3013a87a354636a96b555cf4a57317142ef89b23f15f2f274f6",
+  "seqno": 9,
   "tag": "signature"
 }
 ```
 
-with the key [ASD4YkvmnXXD2aeq2M4G1oY4w8hRi1ThgaynFbm37pqa0Qo](https://keybase.io/kowalskiego), yielding the signature:
+with the key [ASBPdnlcR-5MLLThzZ-KvRWuuaDYsHZKe64Qof5TIUVhjgo](https://keybase.io/frvalov3), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+GJL5p11w9mnqtjOBtaGOMPIUYtU4YGspxW5t+6amtEKp3BheWxvYWTESpcCF8QgkgxmVJU2yPF3agsxpCh92yQyvtX1uJIiIUlOjPX+ACjEIPEYNVQ4A41ltRYenHKWFH80KJjMqLo/GSKOo2GC2aAtAgHCo3NpZ8RAHNwKS2OoaJKmq1azZlPwCDzntrqBycLjL8KkjstLpyUzIQdiaCxqT9s//ncbm/If95qqJ4fxoh22B84VjMnBAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFhAOONSmt7cUzD1rFkJa34jrKipkiDjoc6AC5VnovCoo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgT3Z5XEfuTCy04c2fir0Vrrmg2LB2SnuuEKH+UyFFYY4Kp3BheWxvYWTESpcCCcQga7w71FLQswE6h6NUY2qWtVXPSlcxcULvibI/FfLydPbEIC7aYhh56pAFEl6IOP6Ffh4MtZ+BFOebevsl7lR/ylHFAgHCo3NpZ8RAjJ8R9CMoEjIob/+erGvjBajEIjOWEw+jsOsYGXhJw5l2s2jKcTMYR3KskAEG6sZiUj7Hb0pYt8GxrHqJBQotBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMGtDlWRfNr6Pz5oK5p4oy+oU5fyt06KqVm66ZfopK3Ho3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -55,7 +55,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/kowalskiego
+https://keybase.io/frvalov3
 
 ### From the command line:
 
@@ -63,5 +63,5 @@ Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
-keybase id kowalskiego
+keybase id frvalov3
 ```
